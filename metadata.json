@@ -1,0 +1,5 @@
+{
+  "name": "AI-Powered Blog Platform",
+  "description": "A modern blog platform featuring a Markdown editor for creating posts, Clerk for authentication, and Gemini API for generating intelligent post summaries. Users can write, publish, search, and comment on blog posts.",
+  "requestFramePermissions": []
+}
